@@ -8,7 +8,9 @@ export const PostCard = ({title, cover, body, id}) => (
           <div className='post-content'>
             <h1>{title} {id} </h1>
             
-            <p>{body}</p>
+            <p>{}
+              <h1>Eurico Leão</h1>
+            </p>
           
           </div>
           </div>

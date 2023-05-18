@@ -15,7 +15,7 @@ state = {
      posts: [],
      allPosts: [],
      page: 0,
-     postsPerPage:2,
+     postsPerPage:4,
      searchValue: ''
     };
   
